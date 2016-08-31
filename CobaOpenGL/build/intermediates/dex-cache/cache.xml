@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0-beta1\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6c33fd5861723a7a7c0e54f4fef70bea1753c1b2">
+        <dex dex="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1-d21788f61057b0a656306624d72588be8c62fde5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0-beta1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5b8ac14511f5b749bf4bbfb48cba28886a631c9">
+        <dex dex="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\pre-dexed\debug\classes-ce898a1a0cef6afeae9003ebec120bfeb4c5d52e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\pre-dexed\debug\classes-f5923c78b0ea323481e0080f68b996e3222ca626.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1-9e829869eb475aeed98467223df8e8c77b273a4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\Users\pengajar-a\AndroidStudioProjects\CobaOpenGL\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1-078c308320475ab5235a24d66ba5b7213f890eb8.jar" />
+    </item>
+
+</items>
